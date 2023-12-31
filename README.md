@@ -623,8 +623,9 @@ Publish the website in the given URL.
         white-space: nowrap;
         width: 28.6rem;
       }
-      .the-events-will-happen-on-5th-jan-2024-between-9-00-am-to-5-00-pm-you-will-receive-further-information-
-about-your-registered-events-through-email-for-any-queries-contact-91-8946050371-7358483736--Afd {
+      .the-events-will-happen-on-5th-jan-2024-between-9-00-am-to-5-00-pm-you-will-receive-
+further-information-about-your-registered-events-through-email-for-any-queries-
+contact-91-8946050371-7358483736--Afd {
         color: #ffffff;
         font-family: Times New Roman, 'Source Sans Pro';
         font-size: 1.8rem;
